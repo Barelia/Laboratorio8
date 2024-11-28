@@ -1,12 +1,12 @@
 h1{
-    color: rgb(255, 51, 0);
+    color: rgba(255, 51, 0, 0.712);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
 
 }
 
 p{
-    color: rgb(0, 80, 252);
+    color: rgb(28, 91, 228);
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
 }
